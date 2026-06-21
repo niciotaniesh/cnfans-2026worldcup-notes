@@ -1,2 +1,14 @@
 # cnfans-2026worldcup-notes
-HTML page archive and documentation
+
+独立页面发布说明
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
